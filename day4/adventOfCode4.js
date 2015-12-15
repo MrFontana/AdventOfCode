@@ -16,4 +16,4 @@
 //
 // Your puzzle answer was 3938038.
 
-var input = "ckczppom";
+var input = require('./input.js');

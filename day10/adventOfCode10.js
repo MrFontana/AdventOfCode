@@ -19,7 +19,7 @@
 //
 // Neat, right? You might also enjoy hearing John Conway talking about this sequence (that's Conway of Conway's Game of Life fame).
 
-var input = "3113322113";
+var input = require('./input.js');
 
 var toArray = function(str) {
   var arr = [];
